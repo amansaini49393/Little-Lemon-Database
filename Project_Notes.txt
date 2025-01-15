@@ -1,0 +1,9 @@
+
+Project Overview:
+- Designed an ER diagram using MySQL Workbench.
+- Implemented schema in MySQL server using Forward Engineer.
+- Designed Star and Snowflake schemas for dimensional modeling.
+- Created visualizations and an interactive dashboard in Tableau.
+
+Team:
+- Developer: Aman

@@ -1,0 +1,5 @@
+
+1. Map Chart: Shows sales by state in the USA.
+2. Bubble Chart: Displays profits, quantity sold, and shipping cost by state.
+3. Line Chart: Represents sales trends for states with sales above $40,000.
+4. Dashboard: Combines all charts with interactivity enabled.
